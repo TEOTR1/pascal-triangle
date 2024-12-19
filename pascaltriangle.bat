@@ -1,0 +1,2 @@
+pascaltriangle.exe
+pause
